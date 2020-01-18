@@ -15,6 +15,7 @@ All rights reserved. No commercial use.
 \# | Problem | Difficulty | Code
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](src/1_twosum)
+2 | Add Two Numbers | Medium | [Solution](src/2_addtwonumbers)
 36 | Valid Sudoku | Medium | [Solution](src/36_validsudoku)
 37 | Sudoku Solver | Hard | [Solution](src/37_sudokusolver)
 58 | Length of Last Word | Easy | [Solution](src/58_lengthoflastword)
