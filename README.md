@@ -21,6 +21,7 @@ All rights reserved. No commercial use.
 36 | Valid Sudoku | Medium | [Problem](https://leetcode.com/problems/valid-sudoku/) | [Solution](src/36_validsudoku)
 37 | Sudoku Solver | Hard | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](src/37_sudokusolver)
 58 | Length of Last Word | Easy | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](src/58_lengthoflastword)
+72 | Edit Distance | Hard | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](src/72_editdistance)
 75 | Sort Colors | Medium | [Problem](https://leetcode.com/problems/sort-colors/) | [Solution](src/75_sortcolors)
 97 | Interleaving String | Hard | [Problem](https://leetcode.com/problems/interleaving-string/) | [Solution](src/97_interleavingstring)
 100 | Same Tree | Easy | [Problem](https://leetcode.com/problems/same-tree/) | [Solution](src/100_sametree)
