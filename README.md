@@ -16,5 +16,6 @@ All rights reserved. No commercial use.
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](src/1_twosum)
 58 | Length of Last Word | Easy | [Solution](src/58_lengthoflastword)
+75 | Sort Colors | Medium | [Solution](75_sortcolors)
 100 | Same Tree | Easy | [Solution](src/100_sametree)
 
