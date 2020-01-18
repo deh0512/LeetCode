@@ -26,4 +26,5 @@ All rights reserved. No commercial use.
 79 | Word Search | Medium | [Problem](https://leetcode.com/problems/word-search/) | [Solution](src/79_wordsearch)
 97 | Interleaving String | Hard | [Problem](https://leetcode.com/problems/interleaving-string/) | [Solution](src/97_interleavingstring)
 100 | Same Tree | Easy | [Problem](https://leetcode.com/problems/same-tree/) | [Solution](src/100_sametree)
+242 | Valid Anagram | Easy | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](src/242_validanagram)
 
