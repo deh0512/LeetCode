@@ -31,4 +31,5 @@ All rights reserved. No commercial use.
 435 | Non-overlapping Interverals | Medium | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](src/435_nonoverlappingintervals)
 524 | Longest Word in Dictionary Through Deleting | Medium | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Solution](src/524_longestwordindictionarythroughdeleting)
 678 | Valid Parenthesis String | Medium | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](src/678_validparenthesisstring)
+1248 | Count Number of Nice Subarrays | Medium | [Problem](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Solution](src/1248_countnicesubarrays)
 
