@@ -4,10 +4,10 @@ public:
         if (nums.empty()) return 0;
         int tab[nums.size()];
         memset(tab, 0, sizeof(tab));
-        tab[0] = nums[0] % 2 != 0 ? 1 : 0;
+        tab[0] = nums[0] % 2;
         auto cnt = tab[0] == k ? 1 : 0;
         for (auto i = 1; i < nums.size(); ++i) {
-            tab[i] = tab[i - 1] + (nums[i] % 2 != 0 ? 1 : 0);
+            tab[i] = tab[i - 1] + (nums[i] % 2);
             if (tab[i] == k) ++cnt;
         }
         for (auto i = 1; i <= nums.size() - k; ++i) {
