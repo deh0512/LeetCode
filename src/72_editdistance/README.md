@@ -10,3 +10,5 @@ Essentially there is an integer state that is being optimized while traversing t
 
 Both space and time complexity are O(m * n), where m and n are the lengths of the two words.
 
+This problem seemed familiar (like something covered in a class some years ago), so I decided to do a bit of research. This variation of the edit distance problem is called the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance). In some sense, it is a generalization of the [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) for strings of unequal length.
+
