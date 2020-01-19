@@ -29,4 +29,5 @@ All rights reserved. No commercial use.
 141 | Linked List Cycle | Easy | [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](src/141_linkedlistcycle)
 242 | Valid Anagram | Easy | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](src/242_validanagram)
 435 | Non-overlapping Interverals | Medium | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](src/435_nonoverlappingintervals)
+678 | Valid Parenthesis String | Medium | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](src/678_validparenthesisstring)
 
