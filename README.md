@@ -23,6 +23,7 @@ All rights reserved. No commercial use.
 15 | 3 Sum | Medium | [Problem](https://leetcode.com/problems/3sum/) | [Solution](src/15_3sum)
 16 | 3 Sum Closest | Medium | [Problem](https://leetcode.com/problems/3sum-closest/) | [Solution](src/16_3sumclosest)
 18 | 4 Sum | Medium | [Problem](https://leetcode.com/problems/4sum/) | [Solution](src/18_4sum)
+20 | Valid Parentheses | Easy | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](src/20_validparentheses)
 28 | Implement strStr() | Easy | [Problem](https://leetcode.com/problems/implement-strstr/) | [Solution](src/28_implement_strstr)
 36 | Valid Sudoku | Medium | [Problem](https://leetcode.com/problems/valid-sudoku/) | [Solution](src/36_validsudoku)
 37 | Sudoku Solver | Hard | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](src/37_sudokusolver)
