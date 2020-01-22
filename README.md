@@ -16,6 +16,7 @@ All rights reserved. No commercial use.
 ---|---|---|---|---
 1 | Two Sum | Easy | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](src/1_twosum)
 2 | Add Two Numbers | Medium | [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](src/2_addtwonumbers)
+3 | Longest Substring Without Repeating Characters | Medium | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](src/3_longestsubstring)
 7 | Reverse Integer | Easy | [Problem](https://leetcode.com/problems/reverse-integer/) | [Solution](src/7_reverseinteger)
 8 | String to Integer | Medium | [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](src/8_stringtointeger)
 9 | Palindrome Number | Easy | [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](src/9_palindromenumber)
