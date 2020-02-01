@@ -20,6 +20,7 @@ All rights reserved. No commercial use.
 7 | Reverse Integer | Easy | [Problem](https://leetcode.com/problems/reverse-integer/) | [Solution](src/7_reverseinteger)
 8 | String to Integer | Medium | [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](src/8_stringtointeger)
 9 | Palindrome Number | Easy | [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](src/9_palindromenumber)
+10 | Regular Expression Matching | Hard | [Problem](https://leetcode.com/problems/regular-expression-matching/) | [Solution](src/10_regularexpressionmatching)
 11 | Container With Most Water | Medium | [Problem](https://leetcode.com/problems/container-with-most-water/) | [Solution](src/11_containerwithmostwater)
 12 | Integer to Roman | Medium | [Problem](https://leetcode.com/problems/integer-to-roman/) | [Solution](src/12_integertoroman)
 13 | Roman to Integer | Easy | [Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](src/13_romantointeger)
