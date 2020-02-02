@@ -36,6 +36,7 @@ All rights reserved. No commercial use.
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Solution](src/27_removeelement)
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [Solution](src/28_implement_strstr)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Solution](src/29_dividetwointegers)
+35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](src/35_searchinsertposition)
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Solution](src/36_validsudoku)
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Solution](src/37_sudokusolver)
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](src/58_lengthoflastword)
