@@ -35,6 +35,7 @@ All rights reserved. No commercial use.
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](src/20_validparentheses)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Solution](src/21_mergetwosortedlists)
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Solution](src/22_generateparentheses)
+23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Solution](src/23_mergeksortedlists)
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Solution](src/27_removeelement)
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [Solution](src/28_implement_strstr)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Solution](src/29_dividetwointegers)
