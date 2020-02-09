@@ -42,6 +42,7 @@ All rights reserved. No commercial use.
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [Solution](src/28_implement_strstr)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Solution](src/29_dividetwointegers)
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Solution](src/33_searchinrotatedsortedarray)
+34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Solution](src/34_findfirstandlastposition)
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](src/35_searchinsertposition)
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Solution](src/36_validsudoku)
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Solution](src/37_sudokusolver)
