@@ -37,6 +37,7 @@ All rights reserved. No commercial use.
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Solution](src/22_generateparentheses)
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Solution](src/23_mergeksortedlists)
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [Solution](src/24_swapnodesinpairs)
+26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Solution](src/26_removeduplicatesfromsortedarray)
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Solution](src/27_removeelement)
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [Solution](src/28_implement_strstr)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Solution](src/29_dividetwointegers)
