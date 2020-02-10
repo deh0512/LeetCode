@@ -46,6 +46,7 @@ All rights reserved. No commercial use.
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](src/35_searchinsertposition)
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Solution](src/36_validsudoku)
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Solution](src/37_sudokusolver)
+38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | [Solution](src/38_countandsay)
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](src/58_lengthoflastword)
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Solution](src/72_editdistance)
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](src/75_sortcolors)
