@@ -49,6 +49,7 @@ All rights reserved. No commercial use.
 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | [Solution](src/38_countandsay)
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](src/39_combinationsum)
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [solution](src/40_combinationsum2)
+43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Solution](src/43_multiplystrings)
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](src/58_lengthoflastword)
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Solution](src/72_editdistance)
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](src/75_sortcolors)
