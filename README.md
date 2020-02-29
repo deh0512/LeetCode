@@ -52,6 +52,7 @@ All rights reserved. No commercial use.
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [solution](src/40_combinationsum2)
 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Solution](src/43_multiplystrings)
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](src/58_lengthoflastword)
+66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Solution](src/66_plusone)
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Solution](src/72_editdistance)
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](src/75_sortcolors)
 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](src/79_wordsearch)
