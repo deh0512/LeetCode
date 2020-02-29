@@ -41,6 +41,7 @@ All rights reserved. No commercial use.
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Solution](src/27_removeelement)
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [Solution](src/28_implement_strstr)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Solution](src/29_dividetwointegers)
+31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Solution](src/31_nextpermutation)
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Solution](src/33_searchinrotatedsortedarray)
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Solution](src/34_findfirstandlastposition)
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](src/35_searchinsertposition)
