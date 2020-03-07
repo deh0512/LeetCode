@@ -57,6 +57,7 @@ All rights reserved. No commercial use.
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Solution](src/72_editdistance)
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](src/75_sortcolors)
 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](src/79_wordsearch)
+83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Solution](src/83_removeduplicatesfromsortedlist)
 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Hard | [Solution](src/97_interleavingstring)
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Solution](src/100_sametree)
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Solution](src/110_balancedbinarytree)
