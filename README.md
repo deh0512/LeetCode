@@ -57,6 +57,7 @@ All rights reserved. No commercial use.
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Solution](src/67_addbinary)
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Solution](src/69_sqrt)
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Solution](src/72_editdistance)
+74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Solution](src/74_searcha2dmatrix)
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](src/75_sortcolors)
 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](src/79_wordsearch)
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Solution](src/83_removeduplicatesfromsortedlist)
