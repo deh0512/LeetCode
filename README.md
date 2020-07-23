@@ -54,6 +54,7 @@ All rights reserved. No commercial use.
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](src/58_lengthoflastword)
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [Solution](src/61_rotatelist)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Solution](src/66_plusone)
+67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Solution](src/67_addbinary)
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Solution](src/72_editdistance)
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](src/75_sortcolors)
 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](src/79_wordsearch)
