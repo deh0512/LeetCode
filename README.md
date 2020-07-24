@@ -51,6 +51,7 @@ All rights reserved. No commercial use.
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](src/39_combinationsum)
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [solution](src/40_combinationsum2)
 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Solution](src/43_multiplystrings)
+46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Solution](src/46_permutations)
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Solution](src/54_spiralmatrix)
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](src/58_lengthoflastword)
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [Solution](src/61_rotatelist)
