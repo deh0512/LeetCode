@@ -12,7 +12,7 @@ All rights reserved. No commercial use.
 
 # Solutions
 
-\# | Problem | Difficulty | Language | Code
+\# | Problem | Difficulty | Languages | Code
 ---|---|---|---|---
 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| Easy | C++ | [Solution](src/1_twosum)
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | C++ | [Solution](src/2_addtwonumbers)
@@ -52,6 +52,7 @@ All rights reserved. No commercial use.
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | C++ | [solution](src/40_combinationsum2)
 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | C++ | [Solution](src/43_multiplystrings)
 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | C++ | [Solution](src/46_permutations)
+47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | Java | [Solution](src/47_permutationsii)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Java | [Solution](src/49_groupanagrams)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | Java | [Solution](src/50_powxn)
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | C++ | [Solution](src/54_spiralmatrix)
