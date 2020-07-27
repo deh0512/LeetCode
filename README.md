@@ -4,11 +4,11 @@
 
 A showcase of my solutions for [LeetCode](https://leetcode.com/) problems, mostly in C++.
 
-This repo is inspired by Richard Liu's [similar repo](https://github.com/lzl124631x/LeetCode).
+This repo is inspired by Zhenglai (Richard) Liu's [similar repo](https://github.com/lzl124631x/LeetCode).
 
 # License
 
-All rights reserved. No commercial use.
+All rights reserved. No commercial use. Why would you want to do that anyway?
 
 # Solutions
 
