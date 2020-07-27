@@ -50,6 +50,7 @@ All rights reserved. No commercial use.
 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | C++ | [Solution](src/38_countandsay)
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | C++ | [Solution](src/39_combinationsum)
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | C++ | [solution](src/40_combinationsum2)
+41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | Java | [Solution](src/41_firstmissingpositive)
 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | C++ | [Solution](src/43_multiplystrings)
 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | C++ | [Solution](src/46_permutations)
 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | Java | [Solution](src/47_permutationsii)
