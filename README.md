@@ -54,6 +54,7 @@ All rights reserved. No commercial use.
 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | C++ | [Solution](src/43_multiplystrings)
 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | C++ | [Solution](src/46_permutations)
 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | Java | [Solution](src/47_permutationsii)
+48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Java | [Solution](src/48_rotateimage)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Java | [Solution](src/49_groupanagrams)
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | Java | [Solution](src/50_powxn)
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | C++ | [Solution](src/54_spiralmatrix)
