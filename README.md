@@ -62,6 +62,7 @@ All rights reserved. No commercial use. Why would you want to do that anyway?
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | C++ | [Solution](src/58_lengthoflastword)
 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | Python | [Soluton](src/59_spiralmatrixii)
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | C++ | [Solution](src/61_rotatelist)
+62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | Python | [Solution](src/62_uniquepaths)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | C++ | [Solution](src/66_plusone)
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | C++ | [Solution](src/67_addbinary)
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | C++ | [Solution](src/69_sqrt)
