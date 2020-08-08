@@ -75,6 +75,7 @@ All rights reserved. No commercial use. Why would you want to do that anyway?
 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | Java | [Solution](src/89_graycode)
 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | C++ | [Solution](src/90_subsetsii)
 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Hard | C++ | [Solution](src/97_interleavingstring)
+98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | C++ | [Solution](src/98_validatebinarysearchtree)
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | C++ | [Solution](src/100_sametree)
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | C++ | [Solution](src/110_balancedbinarytree)
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | C++ | [Solution](src/141_linkedlistcycle)
