@@ -2,7 +2,7 @@
 
 [deh0512](https://github.com/deh0512)
 
-A showcase of my solutions for [LeetCode](https://leetcode.com/) problems, mostly in C++.
+A showcase of my solutions for [LeetCode](https://leetcode.com/) problems, mostly in C++ with some Java and Python sprinkled in for flavor.
 
 This repo is inspired by Zhenglai (Richard) Liu's [similar repo](https://github.com/lzl124631x/LeetCode).
 
