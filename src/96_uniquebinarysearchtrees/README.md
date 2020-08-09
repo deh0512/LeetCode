@@ -4,7 +4,7 @@ https://leetcode.com/problems/unique-binary-search-trees/
 
 # Explanation
 
-This problem is a classic recurrence relation. The number of binary search trees for `n` (let's call it `nt(n)` can easily be expressed in terms of the number of binary search trees for values less than `n`. It's just a matter of figuring out the relationship.
+This problem is a classic recurrence relation. The number of binary search trees for `n` (let's call it `nt(n)`) can easily be expressed in terms of the number of binary search trees for values less than `n`. It's just a matter of figuring out the relationship.
 
 The base cases for the recurrence are the values 0 and 1, where the number of possible tree configurations should be fairly obvious. My implementation adds 2 to the base cases as an optimization because, as it turns out, the answer to `nt(n)` for `n` in range  [0, 2] is `n`. So while 2 is not strictly speaking a base case, it fits the base case pattern neatly enough.
 
