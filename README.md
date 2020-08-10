@@ -66,6 +66,7 @@ All rights reserved. No commercial use. Why would you want to do that anyway?
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | C++ | [Solution](src/66_plusone)
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | C++ | [Solution](src/67_addbinary)
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | C++ | [Solution](src/69_sqrt)
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | C++ | [Solution](src/climbingstairs)
 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | Python | [Solution](src/71_simplifypath)
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | C++ | [Solution](src/72_editdistance)
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | C++ | [Solution](src/74_searcha2dmatrix)
