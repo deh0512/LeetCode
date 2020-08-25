@@ -27,7 +27,7 @@ I laid out the gray code sequence with an input of 4 to get an idea what the pat
 01000   8   9^1   15  0001
 ```
 
-I then thought about how to achieve the pattern that made up the exclusive-or right operands: `1 2 1 4 1 2 1 8 1 2 1 4 1 2 1`. It looks something like a tree of bits (or powers of 2) that's been squished. I realized that the placement of each value expands out from the center inversely according to its degree, and you can build up the list by starting with the largest relevant power of 3 value and just filling in the surrounding values at each level. As you decrease the value you are adding, you add it in more places on each side of the larger values.
+I then thought about how to achieve the pattern that made up the exclusive-or right operands: `1 2 1 4 1 2 1 8 1 2 1 4 1 2 1`. It looks something like a tree of bits (or powers of 2) that's been squished. I realized that the placement of each value expands out from the center inversely according to its degree, and you can build up the list by starting with the largest relevant power of 2 value and just filling in the surrounding values at each level. As you decrease the value you are adding, you add it in more places on each side of the larger values.
 
 Once you have the list with the appropriate pattern, it's just a matter of repeatedly exclusive-or'ing successive values the right number of times.
 
