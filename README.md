@@ -90,5 +90,6 @@ All rights reserved. No commercial use. Why would you want to do that anyway?
 435 | [Non-overlapping Interverals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | C++ | [Solution](src/435_nonoverlappingintervals)
 524 | [Longest Word in Dictionary Through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | Medium | C++ | [Solution](src/524_longestwordindictionarythroughdeleting)
 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | C++ | [Solution](src/678_validparenthesisstring)
+935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | Medium | C++ | [Solution](src/935_knightdialer)
 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | C++ | [Solution](src/1248_countnicesubarrays)
 
