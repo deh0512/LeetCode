@@ -2,6 +2,7 @@ class Solution {
 public:
     int knightDialer(int n) {
         if (n <= 0) return 0;
+        if (n == 1) return 10;
         vector<unsigned long> prior{};
         auto cur = vector<unsigned long>(10, 1ul);
         for (auto curHops = 1; curHops < n; ++curHops) {
@@ -9,8 +10,9 @@ public:
             cur = vector<unsigned long>(10, 0ul);
             for (auto i = 0; i < 10; ++i) {
                 for (auto j = 0; j < hops[i].size(); ++j) {
-                    cur[i] = (cur[i] + prior[hops[i][j]]) % modVal;
+                    cur[i] += prior[hops[i][j]];
                 }
+                cur[i] %= modVal;
             }
         }
         return accumulate(cur.begin(), cur.end(), 0ul) % modVal;
