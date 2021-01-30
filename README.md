@@ -84,6 +84,7 @@ All rights reserved. No commercial use. Why would you want to do that anyway?
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | C++ | [Solution](src/98_validatebinarysearchtree)
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | C++ | [Solution](src/100_sametree)
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | C++ | [Solution](src/110_balancedbinarytree)
+121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | C++ | [Solution](src/121_besttimetobuy)
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | C++ | [Solution](src/141_linkedlistcycle)
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | C++ | [Solution](src/242_validanagram)
 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | C++ | [Solution](src/341_flattennestedlistiter)
